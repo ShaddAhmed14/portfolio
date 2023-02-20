@@ -21,9 +21,9 @@ export default function Languages() {
   var width = "50px"
   var height = "50px"
   return (
-    <Container id="languages" className="p-3 my-3" style={{backgroundColor:"black", color:"white" }}>
+    <Container id="languages" className="p-3 my-3" style={{backgroundColor:"white", color:"black" }}>
       <h5>Languages and Frameworks</h5>
-      <p>Frontend</p><hr style={{color:"white"}}/>
+      <p>Frontend</p><hr style={{color:"black"}}/>
       <Row md={5} sm={1} className="p-2" >
       <Col className="py-2"><img src={react} title="React" style={{width:width, height:height }} /></Col>
       <Col className="py-2"><img src={html} title="HTML" style={{width:width, height:height }} /></Col>
@@ -31,20 +31,20 @@ export default function Languages() {
       <Col className="py-2"><img src={flutter} title="FLutter" style={{width:width, height:height }} /></Col>
       <Col className="py-2"><img src={bootstrap} title="Bootstrap 5" style={{width:width, height:height }} /></Col>
       </Row>
-      <p>Backend</p><hr style={{color:"white"}}/>
+      <p>Backend</p><hr style={{color:"black"}}/>
       <Row md={5} sm={1} className="p-2" >
       <Col className="py-2"><img src={node} title="NodeJs" style={{width:width, height:height }} /></Col>
       <Col className="py-2"><img src={django} title="Django" style={{width:width, height:height }} /></Col>
       <Col className="py-2"><img src={mongodb} title="MongoDB" style={{width:width, height:height }} /></Col>
       <Col className="py-2"><img src={mysql} title="MySQL" style={{width:width, height:height }} /></Col>
       </Row>
-      <p>Programming Languages</p><hr style={{color:"white"}}/>
+      <p>Programming Languages</p><hr style={{color:"black"}}/>
       <Row md={5} sm={1} className="p-2" >
       <Col className="py-2"><img src={c} title="C++" style={{width:width, height:height }} /></Col>
       <Col className="py-2"><img src={js} title="Javascript" style={{width:width, height:height }} /></Col>
       <Col className="py-2"><img src={python} title="Python" style={{width:width, height:height }} /></Col>
       </Row>
-      <p>Tools</p><hr style={{color:"white"}}/>
+      <p>Tools</p><hr style={{color:"black"}}/>
       <Row md={5} sm={1} className="p-2" >
       <Col className="py-2"><img src={wordpress} title="Wordpress" style={{width:width, height:height }} /></Col>
       <Col className="py-2"><img src={figma} title="Figma" style={{width:width, height:height }} /></Col>

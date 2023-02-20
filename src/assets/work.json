@@ -1,0 +1,8 @@
+[
+    {"position": "Visual AI Research Intern", "timeline":"Jan 2023 - Present", "company":"SDSA",  "company_url":"http://sdsa.lums.edu.pk/", "stack": "React, Django, MYSQL, Pytorch", "role":["Developing a Visual AI system to help retail stores analyze customer behavior", "Programming a dashboard for the system using React, Django, and MySQL", "Collecting and finalizing a dataset to train the Yolov7 model"]},
+    {"position": "Computer Vision Research Intern", "timeline":"Jun 2022 - Dec 2022", "company":"CVGL", "company_url":"https://cvlab.lums.edu.pk/", "stack": "React, Pytorch", "role":["Researched potential models to be used for Early Fire Detection", "Modified existing models like Deformable DeTr", "Annotated and post-processed dataset of 3000 images to use for our models"]},
+    {"position": "Speech and Natural Language Processing Intern", "timeline":"Jan 2022 - May 2022", "company":"CSaLT", "company_url":"https://www.c-salt.org/", "stack": "Pytorch", "role":["Proposed Darmaan, an AI-based medical assistant aimed to help people in rural areas", "Improved accuracy of departments Keyword Spotting algorithms accuracy from 60% to 85%", "Lead a literature review on how to annotate Urdu's largest audio dataset without transcription"]},
+    {"position": "Game development intern", "timeline":"Jul 2021 - Sept 2021", "company":"Mindstorm Studios", "company_url":"https://labs.mindstormstudios.com/", "stack": "Unity, Blender", "role":["Developed Missile Fest, a cross-platform mobile game using Unity", "Used Blender to create assets and models", "Used Google PlayStore Console to finalize game features based on users' behaviors"]}
+]
+
+
